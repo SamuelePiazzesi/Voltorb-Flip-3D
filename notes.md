@@ -1,7 +1,7 @@
 # Rules 
 
 1. $5 \times 5$ grid,  each cell can be $1,\ 2,\ 3$ multiplier or a bomb.
-2. Score is achieved  by $1Coins \times 2*2Coins \times 3*3Coins$ 
+2. Score is achieved  by $1Coins$ + 2 x $2Coins$ + 3 x $3Coins$ 
 
 3. If a player flips less cards before finding a voltorb than $currentLevel$, $level$ is dropped to $cardsFlipped$ (if $cardsFlipped < 2$, $level \to 1$ )
 
